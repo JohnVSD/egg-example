@@ -1,0 +1,8 @@
+.news-view {
+  padding: 20px;
+}
+
+.news-view .item {
+  color: rgb(68, 66, 66);
+  font-size: 16px;
+}
